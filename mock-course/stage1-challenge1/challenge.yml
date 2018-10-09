@@ -1,0 +1,12 @@
+title: My First Challenge
+treehouse_code_challenge_id: ~
+
+runner: PythonRunner
+
+tasks:
+ - body: This is my first task.  This is markdown text.
+   source: task1.py
+
+# The files that we'll show in the editor
+files:
+ - source: variables.py
